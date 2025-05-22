@@ -18,6 +18,12 @@ Below is an example of the table relationships and design used in the project:
 
 ![Database Diagram](Splay_app/ER_Diagram.png)
 
+## Database Interactions Output
+
+Detailed database interaction examples are available in the following PDF:
+
+[View Database Interaction Samples (PDF)](Splay_app/Database_Interactions.pdf)
+
 ## What I Learned
 - Designing relational database schemas from scratch
 - Implementing core CRUD operations with SQL
